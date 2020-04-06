@@ -1,0 +1,37 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "emp1",
+      "age": "12",
+      "address": "hanoi"
+    },
+    {
+      "id": 2,
+      "name": "emp2",
+      "age": "13",
+      "address": "hanoi"
+    },
+    {
+      "id": 3,
+      "name": "emp3",
+      "age": "18",
+      "address": "hcm"
+    },
+    {
+      "id": 4,
+      "name": "emp4",
+      "age": "12",
+      "address": "hcm"
+    },
+    {
+      "id": 5,
+      "name": "emp5",
+      "age": "21",
+      "address": "danang"
+    },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
