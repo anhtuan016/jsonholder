@@ -1,12 +1,4 @@
 {
-      "id": 2,
-      "name": "emp2",
-      "age": "13",
-      "address": "hanoi"
-}
-
-  
-{
   "posts": [
     {
       "id": 1,
